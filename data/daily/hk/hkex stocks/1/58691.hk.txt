@@ -1,0 +1,2 @@
+Date,Open,High,Low,Close,Volume,OpenInt
+2018-03-22,0.134,0.202,0.052,0.058,218410000,0
